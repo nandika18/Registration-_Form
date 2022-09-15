@@ -1,0 +1,27 @@
+body {
+    margin: auto;
+  }
+  
+  @font-face {
+      font-style: regular;
+      font-family: "Times New Roman";
+      src: url("/html/online-compiler/fonts/EuclidCircularA-Regular.otf");
+  }
+    
+  h1 {
+      margin: 16px;
+      font-size: 24px;
+      font-weight: 600;
+      line-height: 50px;
+      font-family:"Times New Roman";;
+  }
+    
+  p {
+    color: rgba(229, 151, 203, 0.87) ;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      margin: auto 16px;
+      font-style: normal;
+      font-family: "Times New Roman";;
+  }
